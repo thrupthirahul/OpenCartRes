@@ -3,7 +3,7 @@
 
 <suite name="OpenCartSuit" parallel="tests"  >
 	
-	<test name="SmokeTest1" thread-count="5"  >
+	<test name="SmokeTest001" thread-count="5"  >
 		<parameter name="os" value="window"/>
 		<parameter name="broswer" value="chrome"/>
 		<classes>
@@ -12,7 +12,7 @@
 		</classes>
 	</test>
 	
-	<test name="SmokeTest2" thread-count="5">
+	<test name="SmokeTest002" thread-count="5">
 		<parameter name="os" value="window"/>
 		<parameter name="broswer" value="edge"/>
 		<classes>
