@@ -14,6 +14,7 @@ public class Student {
 		this.name=name;
 		this.id=id;
 		this.course=course;
+  		System.out.println("Student Constructor");
 	}
 	
 	@Override
