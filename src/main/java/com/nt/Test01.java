@@ -23,6 +23,7 @@ public class Test01 {
 		list.display();
 		list.display();
 		list.display();
+		//id_ed25519,id_dsa,id_rsa
 		
 	}
 
