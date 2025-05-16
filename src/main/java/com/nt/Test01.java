@@ -23,7 +23,7 @@ public class Test01 {
 		list.display();
 		list.display();
 		list.display();
-		list.display();
+		
 	}
 
 }
