@@ -19,10 +19,10 @@ public class Test01 {
 		list.addPosAt(100, 8);
 		list.add(101);
 		list.addFirst(101);
+		list.display();
+		list.display();
+		list.display();
 		list.addPosAt(103,15);
-		list.display();
-		list.display();
-		list.display();
 		//id_ed25519,id_dsa,id_rsa
 		
 	}
