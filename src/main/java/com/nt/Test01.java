@@ -21,6 +21,9 @@ public class Test01 {
 		list.addFirst(101);
 		list.addPosAt(103,15);
 		list.display();
+		list.display();
+		list.display();
+		list.display();
 	}
 
 }
